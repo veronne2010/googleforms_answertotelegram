@@ -99,7 +99,7 @@ function onFormSubmit(e) {
 - **Error handling**: Built-in error management and logging
 - **Automatic cleanup**: Temporary Google Docs are automatically deleted
 
-## 🔧 Customization
+## Customization
 
 ### Change Message Format
 
